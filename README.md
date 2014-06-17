@@ -10,4 +10,8 @@ Tämän lisäksi palvelussa listataan **API tapahtumia**, jotka voivat olla yksi
 
 ## Rajapinnan lisääminen palveluun
 
-Tällä hetkellä rajapinnan lisääminen onnistuu vain lisäämällä "tuote" valikoimaan manuaalisesti. Tavoite on saada aikaiseksi koneellinen (API) tapa lukea sisään rajapintojen tietoja esim github repositoryssä sijaitsevasta manifest tiedostosta. 
+* Tällä hetkellä rajapinnan lisääminen onnistuu vain lisäämällä "tuote" valikoimaan manuaalisesti. 
+
+* Tavoite on saada aikaiseksi koneellinen (API) tapa lukea sisään rajapintojen tietoja esim github repositoryssä sijaitsevasta manifest (JSON) tiedostosta. 
+
+* Lisäksi yksi tapa olisi syöttää kyseinen manifest (JSON) apisuomi.fi palveluun tiedostona web käyttöliittymän kautta. 
