@@ -1,5 +1,7 @@
 # {API:Suomi} palvelu
 
+Osoite: http://apisuomi.fi
+
 {API:Suomi} palvelu listaa Suomessa käytössä olevat rajapinnat. Käyttäjät voivat arvostella ja kommentoida palveluun ilmoitettuja rajapintoja. 
 
 Lisäksi käyttäjät voivat ehdottaa lisättäviä rajapintoja. Rajapintojen sovellutuksista kertovat "sotatarinat" tuovat oman lisänsä ja innostavat muita kehittäjiä. 
