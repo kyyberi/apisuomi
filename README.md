@@ -14,4 +14,4 @@ Tämän lisäksi palvelussa listataan **API tapahtumia**, jotka voivat olla yksi
 
 * Tavoite on saada aikaiseksi koneellinen (API) tapa lukea sisään rajapintojen tietoja esim github repositoryssä sijaitsevasta manifest (JSON) tiedostosta. 
 
-* Lisäksi yksi tapa olisi syöttää kyseinen manifest (JSON) apisuomi.fi palveluun tiedostona web käyttöliittymän kautta. 
+* Lisäksi yksi tapa olisi syöttää kyseinen manifest (JSON) apisuomi.fi palveluun tiedostona web käyttöliittymän kautta kuten apis.io palvelussa http://apis.io/apis/add 
