@@ -10,6 +10,10 @@ Lisäksi käyttäjät voivat ehdottaa lisättäviä rajapintoja. **Rajapintojen 
 
 Tämän lisäksi palvelussa listataan **API tapahtumia**, jotka voivat olla yksinkertaisia lounastapaamisia (API lounas) tai muutaman päivän mittaisia kattavia konferensseja (ei vielä Suomessa yhtään). 
 
+## Wordpress perustainen
+
+Niin tai näin, hyvä tai huono, apisuomi on nyt rakennettu Wordpressin päälle. Näin ei tarvitse olla jatkossa, nutta WP tarjosi eväät nopeaan idean testaamiseen ja MVP:n tekemiseen. 
+
 ## Rajapinnan lisääminen palveluun
 
 * Tällä hetkellä rajapinnan lisääminen onnistuu vain lisäämällä "tuote" valikoimaan manuaalisesti. 
