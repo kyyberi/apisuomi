@@ -2,7 +2,7 @@
 
 Osoite: http://apisuomi.fi
 
-[logo](http://apisuomi.fi/wp-content/uploads/2014/06/apisuomi-big.png)
+![logo](http://apisuomi.fi/wp-content/uploads/2014/06/apisuomi-big.png)
 
 {API:Suomi} palvelu **listaa Suomessa käytössä olevat rajapinnat**. Käyttäjät voivat arvostella ja kommentoida palveluun ilmoitettuja rajapintoja. 
 
